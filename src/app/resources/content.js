@@ -74,34 +74,6 @@ const about = {
         title: 'Work Experience',
         experiences: [
             {
-                company: 'Agora Affiliate Program Manager',
-                timeframe: '2024',
-                location: 'Shopify App',
-                role: 'Full Stack Developer',
-                achievements: [
-                    <>Developed a Shopify app to import Amazon products with variants and reviews using PAAPI integration.</>,
-                    <>Handled entire frontend (React.js) and backend (Node.js) development independently.</>,
-                    <>Built logic for dynamic product display, plan-based restrictions, and review imports using theme app extensions.</>,
-                    <>Integrated Amazon PAAPI for fetching product data and handled advanced metafield management.</>
-                ],
-                link: 'https://apps.shopify.com/agora-amazon-affiliate-tool',
-                images: []
-            },
-            {
-                company: 'Genie Pickup Shopify App',
-                timeframe: '2024',
-                location: 'Shopify App',
-                role: 'Full Stack Developer',
-                achievements: [
-                    <>Developed features to add pickup locations in Shopify stores using custom app.</>,
-                    <>Built the frontend using React.js and backend with Ruby.</>,
-                    <>Integrated pickup logic within Shopify's checkout and cart flow using theme app extensions.</>,
-                    <>Contributed to entire architecture and functionality independently.</>
-                ],
-                link: 'https://apps.shopify.com/store-pickup-by-genie-apps',
-                images: []
-            },
-            {
                 company: 'Code Graphers',
                 timeframe: '01/2024 – Present',
                 location: 'Lahore, Pakistan',
